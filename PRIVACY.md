@@ -7,7 +7,7 @@ This Privacy Policy explains what information Th3-Bot may collect and how that i
 ## Data We May Collect
 - Account identifiers: Discord user IDs and guild IDs necessary for bot operation and configuration.
 - Messages and content: Messages posted in servers where the bot runs may be read for command processing, moderation, or automod features. The bot does not intentionally store full chat logs beyond what is required for features (see "Retention").
-- Configuration data: Settings, triggers, and other configuration stored in the repository-provided databases (e.g. `db/` files).
+- Configuration data: Settings, triggers, and other configuration stored in the private databases
 - Usage metadata: Command usage counters, timestamps, and error logs for diagnostics.
 - OAuth information: When using the dashboard and OAuth, basic profile info provided by Discord (username, discriminator, avatar, id) to enable authenticated features.
 
@@ -36,4 +36,4 @@ The bot is not intended for children under the age required by Discord. We do no
 Questions or requests about this policy should be directed to the project owner or repository contact.
 
 ## Changes to This Policy
-We may update this policy; when we do we will post the updated policy in `privacy.md` and indicate the effective date.
+We may update this policy; when we do we will post the updated policy in `PRIVACY.md` and indicate the effective date.
